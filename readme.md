@@ -55,7 +55,7 @@ To run the simulation, follow the instructions below.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://gitlab.com/your-username/city-growth-simulation.git
+    git clone [https://gitlab.com/your-username/city-growth-simulation.git](https://github.com/bring-nirachornkul/Project1.git)
     ```
 
 2. **Navigate to the project directory**:
